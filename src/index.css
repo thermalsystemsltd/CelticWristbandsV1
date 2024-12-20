@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --celtic-green: #1F4B3F;
+    --celtic-gold: #FFD700;
+    --celtic-brown: #8B4513;
+  }
+  
+  body {
+    background-color: white;
+  }
+}
